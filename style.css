@@ -168,14 +168,14 @@ a {
   background-color: #9CC3D5FF;
 }
 
-.card-box {
+/* .card-box {
   transition: transform 0.3s ease;
 }
 
 .card-box:hover{
   transform: scale(1.1);
   transition: all ease 0.3s;
-}
+} */
 
 #icon-div {
   padding-bottom: 50px;
